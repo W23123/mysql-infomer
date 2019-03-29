@@ -1,0 +1,1 @@
+#### clent-go  crd client template
